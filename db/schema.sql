@@ -9,7 +9,7 @@ CREATE TABLE department (
   -- Creates a numeric column called "id" which will automatically increment its default value as we create new rows --
   id INT NOT NULL AUTO_INCREMENT,
   -- Makes a string column called "name" which cannot contain null --
-  name VARCHAR(30),
+  name VARCHAR(30) NOT null,
   PRIMARY KEY (id)
 );
 
@@ -27,7 +27,7 @@ CREATE TABLE employee (
  id INT NOT NULL AUTO_INCREMENT,
  first_name VARCHAR(30) NULL,
  last_name VARCHAR(30) NULL,
- role_id  INT NULL,
+ role_id  INT,
  manager_id INT NULL,
 PRIMARY KEY (id)
 );
