@@ -22,18 +22,18 @@ VALUES ("Lawyer", 130000, 5);
 
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Corbin", "Blue", 001, null);
+VALUES ("Corbin", "Blue", 1, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Raven", "Symone", 002, 7);
+VALUES ("Raven", "Symone",2, 7);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Zac", "Efron", 003, 6);
+VALUES ("Zac", "Efron", 3, 6);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Miley", "Cyrus", 004, 5);
+VALUES ("Miley", "Cyrus",4, 5);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Demi", "Lovato", 005, null);
+VALUES ("Demi", "Lovato",5, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Joe", "Jonas", 006, null);
+VALUES ("Joe", "Jonas",6, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Cole", "Sprouse", 007, 4);
+VALUES ("Cole", "Sprouse",7, 4);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Dylan", "Sprouse", 008, null);
+VALUES ("Dylan", "Sprouse",8, null);
