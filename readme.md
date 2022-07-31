@@ -28,7 +28,7 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Screenshots
- ![Tracker](assets\img\consolesnip.png)
+ ![Tracker](/assets/img/consolesnip.png)
 
 ## Contact
 [Github](https://github.com/bai1eigh/module-12-Employee-Tracker)
