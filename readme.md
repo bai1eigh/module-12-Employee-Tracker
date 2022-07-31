@@ -1,4 +1,7 @@
 # Module-12-Employee-Tracker
+## Description 
+
+MySQl/Node based application. With the application the user is to be able to input new information into employee tracker. Information such employee id, employee role, salaries, etc...
 
 ## User Story 
 AS A business owner
@@ -25,7 +28,7 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Screenshots
- ![alt text](assets/images/screenshot.png)
-## Links 
+ ![Tracker](assets\img\consolesnip.png)
 
 ## Contact
+[Github](https://github.com/bai1eigh/module-12-Employee-Tracker)
